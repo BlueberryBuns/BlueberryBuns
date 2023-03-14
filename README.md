@@ -3,10 +3,10 @@
 I'm data/software engineer currently pursuing masters degree at the Wroclaw University of Science and Technology. I fancy code optimisation and high performance processing modules. My main domains are Python and AWS (terraform as IaC), apart from that I enjoy writing Go code.
 
 As a resolution I would love to polish my Spark and Rust skills in 2023.
-
+<!-- 
 Here are some of the project I've made over last couple of years.
 - [Consulting Application](https://www.google.com "Google's Homepage")
-- xdd
+- xdd -->
 
 <!--
 **BlueberryBuns/BlueberryBuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
