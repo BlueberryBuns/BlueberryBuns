@@ -1,9 +1,9 @@
-# Howdy folks 👋
+# Howdy folks
 
 I'm a Software Engineer interested in creating and developing data-driven products.
 
 
-💼 Currently working at PeakData AG 🧬
+💼 Currently working at PeakData AG
 
 ⚛️ MEng Computer Science at Wroclaw University of Technology
 
